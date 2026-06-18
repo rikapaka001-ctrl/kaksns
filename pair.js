@@ -69,7 +69,7 @@ const config = {
   ],
   
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '263714757857',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '94766619363',
   CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S',
   BOT_NAME: 'ғʀᴇᴇ-ᴍɪɴɪ',
   BOT_VERSION: '1.0.2',
