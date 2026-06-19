@@ -23,7 +23,7 @@ const {
   jidNormalizedUser,
   downloadContentFromMessage,
   DisconnectReason
-} = require('@whiskeysockets/baileys');
+} = require('@whiskeysocket/baileys');
 
 // ---------------- CONFIG ----------------
 const BOT_NAME_FREE = 'ғʀᴇᴇ-ᴍɪɴɪ';
